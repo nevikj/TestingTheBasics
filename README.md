@@ -1,2 +1,2 @@
 # TestingTheBasics
-Initial repo to test basik github functionality
+Initial repo to test basic github functionality
